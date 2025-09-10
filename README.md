@@ -1,1 +1,3 @@
-Repo for Data 620: web analytics.
+# Data 620: Web Analytics
+
+This is a repository for publishing **Data 620: Web Analytics** assignments.
