@@ -19,5 +19,5 @@ For our project, we'll analyze Steam game reviews for some of the top 100 best s
 
 ## Potential Challenges
 Here are some potential challenges and ways we plan to mitigate them:
-- Data Quality: User-generated content can be noisy and inconsistent. We may need to implement robust data cleaning techniques to ensure the quality of our dataset. Additionally, the Steam Web API may have rate limits or restrictions that could impact our ability to gather data efficiently. We will need to plan our data collection strategy accordingly.
+- Data Quality: User-generated content can be noisy and inconsistent. We may need to implement robust data cleaning techniques to ensure the quality of our dataset.
 - Network Analysis Sparsity: The network of reviewers may be sparse, making it challenging to identify meaningful connections. For example, there may be few reviewers who have reviewed multiple games in our dataset. We may need to explore alternative approaches or focus on specific subsets of the data to ensure meaningful analysis. 
