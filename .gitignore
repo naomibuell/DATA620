@@ -1,2 +1,3 @@
 data620env/
 final_project/data/*.json
+final_project/data/*/*.json
